@@ -1,0 +1,173 @@
+ACTOR,EARNINGS,ROLES,MOVIE
+Keanu Reeves,40985512,Neo,The Matrix
+Carrie Fisher,11013692,Trinity,The Matrix
+Laurence Fishburne,6627028,Morpheus,The Matrix
+Hugo Weaving,53301987,Agent Smith,The Matrix
+Emile Hirsch,1376799,Emil,The Matrix
+Keanu Reeves,14280931,Neo,The Matrix Reloaded
+Carrie Fisher,45893844,Trinity,The Matrix Reloaded
+Laurence Fishburne,29171704,Morpheus,The Matrix Reloaded
+Hugo Weaving,38578122,Agent Smith,The Matrix Reloaded
+Keanu Reeves,1774495,Neo,The Matrix Revolutions
+Carrie Fisher,847589,Trinity,The Matrix Revolutions
+Laurence Fishburne,12711369,Morpheus,The Matrix Revolutions
+Hugo Weaving,28693627,Agent Smith,The Matrix Revolutions
+Keanu Reeves,3502878,Kevin Lomax,The Devils Advocate
+Charlize Theron,52766856,Mary Ann Lomax,The Devils Advocate
+Al Pacino,6352636,John Milton,The Devils Advocate
+Tom Cruise,1558255,Lt. Daniel Kaffee,A Few Good Men
+Jack Nicholson,18819366,Col. Nathan R. Jessup,A Few Good Men
+Demi Moore,37443377,Lt. Cdr. JoAnne Galloway,A Few Good Men
+Kevin Bacon,175266,Capt. Jack Ross,A Few Good Men
+Kiefer Sutherland,5691551,Lt. Jonathan Kendrick,A Few Good Men
+Noah Wyle,28918408,Cpl. Jeffrey Barnes,A Few Good Men
+Cuba Gooding Jr.,30565936,Cpl. Carl Hammaker,A Few Good Men
+Kevin Pollak,2380701,Lt. Sam Weinberg,A Few Good Men
+J.T. Walsh,25156510,Lt. Col. Matthew Andrew Markinson,A Few Good Men
+James Marshall,14044480,Pfc. Louden Downey,A Few Good Men
+Christopher Guest,1879870,Dr. Stone,A Few Good Men
+Aaron Sorkin,7804491,Man in Bar,A Few Good Men
+Tom Cruise,5103879,Maverick,Top Gun
+Kelly McGillis,11361850,Charlie,Top Gun
+Val Kilmer,12757451,Iceman,Top Gun
+Anthony Edwards,31422148,Goose,Top Gun
+Tom Skerritt,1744446,Viper,Top Gun
+Meg Ryan,9116047,Carole,Top Gun
+Tom Cruise,22466802,Jerry Maguire,Jerry Maguire
+Cuba Gooding Jr.,483256,Rod Tidwell,Jerry Maguire
+Renee Zellweger,3615286,Dorothy Boyd,Jerry Maguire
+Kelly Preston,7724590,Avery Bishop,Jerry Maguire
+Jerry OConnell,61628789,Frank Cushman,Jerry Maguire
+Jay Mohr,2308070,Bob Sugar,Jerry Maguire
+Bonnie Hunt,11854813,Laurel Boyd,Jerry Maguire
+Regina King,2212195,Marcee Tidwell,Jerry Maguire
+Jonathan Lipnicki,6574228,Ray Boyd,Jerry Maguire
+Wil Wheaton,33574846,Gordie Lachance,Stand By Me
+River Phoenix,50529902,Chris Chambers,Stand By Me
+Jerry OConnell",12420529,Vern Tessio,Stand By Me
+Corey Feldman,5758566,Teddy Duchamp,Stand By Me
+John Cusack,8466257,Denny Lachance,Stand By Me
+Kiefer Sutherland,23607426,Ace Merrill,Stand By Me
+Marshall Bell,49386447,Mr. Lachance,Stand By Me
+Jack Nicholson,13791558,Melvin Udall,As Good as It Gets
+Helen Hunt,2917431,Carol Connelly,As Good as It Gets
+Greg Kinnear,14583882,Simon Bishop,As Good as It Gets
+Cuba Gooding Jr.,75298378,Frank Sachs,As Good as It Gets
+Robin Williams,12689011,Chris Nielsen,What Dreams May Come
+Cuba Gooding Jr.,2322346,Albert Lewis,What Dreams May Come
+Annabella Sciorra,10094819,Annie Collins                          Nielsen,What Dreams May Come
+Max von Sydow,19712888,The Tracker,What Dreams May Come
+Werner Herzog,27142290,The Face,What Dreams May Come
+Ethan Hawke,23722111,Ishmael Chambers,Snow Falling on Cedars
+Rick Yune,17714129,Kazuo Miyamoto,Snow Falling on Cedars
+Max von Sydow,11906059,Nels Gudmundsson,Snow Falling on Cedars
+James Cromwell,30453522,Judge Fielding,Snow Falling on Cedars
+Tom Hanks,35562044,Joe Fox,Youve Got Mail
+Meg Ryan,78964454,Kathleen Kelly,Youve Got Mail
+Greg Kinnear,18949132,Frank Navasky,Youve Got Mail
+Parker Posey,23664167,Patricia Eden,Youve Got Mail
+Dave Chappelle,34915669,Kevin Jackson,Youve Got Mail
+Steve Zahn,5639102,George Pappas,Youve Got Mail
+Tom Hanks,53062278,Sam Baldwin,Sleepless in Seattle
+Meg Ryan,9190577,Annie Reed,Sleepless in Seattle
+Rita Wilson,7298379,Suzy,Sleepless in Seattle
+Bill Pullman,696331,Walter,Sleepless in Seattle
+Victor Garber,13103960,Greg,Sleepless in Seattle
+Rosie ODonnell",2390843,Becky,Sleepless in Seattle
+Tom Hanks,12852978,Joe Banks,Joe Versus the Volcano
+Meg Ryan,21432227,DeDe,Joe Versus the Volcano
+Nathan Lane,11968368,Baw,Joe Versus the Volcano
+Billy Crystal,37804516,Harry Burns,When Harry Met Sally
+Meg Ryan,1429306,Sally Albright,When Harry Met Sally
+Carrie Fisher,58218593,Marie,When Harry Met Sally
+Bruno Kirby,62954857,Jess,When Harry Met Sally
+Tom Hanks,2417704,Mr. White,That Thing You Do
+Liv Tyler,4110809,Faye Dolan,That Thing You Do
+Charlize Theron,42528006,Tina,That Thing You Do
+Keanu Reeves,28385023,Shane Falco,The Replacements
+Brooke Langton,54448687,Annabelle Farrell,The Replacements
+Gene Hackman,12370870,Jimmy McGinty,The Replacements
+Orlando Jones,3633762,Clifford Franklin,The Replacements
+Marshall Bell,14881286,Admiral,RescueDawn
+Christian Bale,3523648,Dieter Dengler,RescueDawn
+Zach Grenier,18413461,Squad Leader,RescueDawn
+Steve Zahn,35278066,Duane,RescueDawn
+Robin Williams,196322,Armand Goldman,The Birdcage
+Nathan Lane,9993722,Albert Goldman,The Birdcage
+Gene Hackman,23021515,Sen. Kevin Keeley,The Birdcage
+Richard Harris,14858093,English Bob,Unforgiven
+Clint Eastwood,13250496,Bill Munny,Unforgiven
+Gene Hackman,5723645,Little Bill Daggett,Unforgiven
+Keanu Reeves,47532309,Johnny Mnemonic,Johnny Mnemonic
+Takeshi Kitano,6154484,Takahashi,Johnny Mnemonic
+Dina Meyer,88452403,Jane,Johnny Mnemonic
+Ice-T,10517331,J-Bone,Johnny Mnemonic
+Tom Hanks,34857026,Dr. Henry Goose,Cloud Atlas
+Hugo Weaving,31200452,Bill Smoke,Cloud Atlas
+Halle Berry,2947352,Luisa Rey,Cloud Atlas
+Jim Broadbent,9834106,Vyvyan Ayrs,Cloud Atlas
+Tom Hanks,2137988,Dr. Robert Langdon,The Da Vinci Code
+Ian McKellen,12771718,Sir Leight Teabing,The Da Vinci Code
+Audrey Tautou,12078459,Sophie Neveu,The Da Vinci Code
+Paul Blythe,4787832,Silas,The Da Vinci Code
+Hugo Weaving,6209397,V,V for Vendetta
+Natalie Portman,10050077,Evey Hammond,V for Vendetta
+Stephen Rea,14230734,Eric Finch,V for Vendetta
+John Hurt,13858725,High Chancellor Adam Sutler,V for Vendetta
+Ben Miles,25577197,Dascomb,V for Vendetta
+Emile Hirsch,60887891,Speed Racer,Speed Racer
+John Goodman,61081131,Pops,Speed Racer
+Susan Sarandon,7507496,Mom,Speed Racer
+Matthew Fox,23681593,Racer X,Speed Racer
+Christina Ricci,66624050,Trixie,Speed Racer
+Rain,1664153,Taejo Togokahn,Speed Racer
+Ben Miles,16634566,Cass Jones,Speed Racer
+Rain,4405788,Raizo,Ninja Assassin
+Naomie Harris,8246020,Mika Coretti,Ninja Assassin
+Rick Yune,38388435,Takeshi,Ninja Assassin
+Ben Miles,61741090,Ryan Maslow,Ninja Assassin
+Tom Hanks,86183235,Paul Edgecomb,The Green Mile
+Michael Clarke Duncan,19970169,John Coffey,The Green Mile
+David Morse,896224,Brutus "Brutal" Howell,The Green Mile
+Bonnie Hunt,454679,Jan Edgecomb,The Green Mile
+James Cromwell,29848122,Warden Hal Moores,The Green Mile
+Sam Rockwell,12884896,Wild Bill Wharton,The Green Mile
+Gary Sinise,15109142,Burt Hammersmith,The Green Mile
+Patricia Clarkson,39147310,Melinda Moores,The Green Mile
+Frank Langella,812387,Richard Nixon,Frost/Nixon
+Michael Sheen,26078282,David Frost,Frost/Nixon
+Kevin Bacon,885284,Jack Brennan,Frost/Nixon
+Oliver Platt,744284,Bob Zelnick,Frost/Nixon
+Sam Rockwell,26186408,James Reston,Frost/Nixon
+Jack Nicholson,10240688,Hoffa,Hoffa
+Danny DeVito,32609412,Robert "Bobby" Ciaro,Hoffa
+J.T. Walsh,90686845,Frank Fitzsimmons,Hoffa
+John C. Reilly,9233936,Peter "Pete" Connelly,Hoffa
+Tom Hanks,6341847,Jim Lovell,Apollo 13
+Kevin Bacon,299893,Jack Swigert,Apollo 13
+Ed Harris,31910044,Gene Kranz,Apollo 13
+Bill Paxton,2991970,Fred Haise,Apollo 13
+Gary Sinise,20108780,Ken Mattingly,Apollo 13
+Bill Paxton,2430170,Bill Harding,Twister
+Helen Hunt,5624927,Dr. Jo Harding,Twister
+Zach Grenier,34620316,Eddie,Twister
+Philip Seymour Hoffman,15196414,Dustin "Dusty" Davis,Twister
+Tom Hanks,1965911,Chuck Noland,Cast Away
+Helen Hunt,5440839,Kelly Frears,Cast Away
+Jack Nicholson,5289426,Randle McMurphy,One Flew Over the Cuckoos Nest
+Danny DeVito,57300722,Martini,One Flew Over the Cuckoos Nest
+Jack Nicholson,80958672,Harry Sanborn,Somethings Gotta Give
+Diane Keaton,15751661,Erica Barry,Somethings Gotta Give
+Keanu Reeves,1270490,Julian Mercer,Somethings Gotta Give
+Robin Williams,631413,Andrew Marin,Bicentennial Man
+Oliver Platt,12555113,Rupert Burns,Bicentennial Man
+Tom Hanks,15614066,Rep. Charlie Wilson,Charlie Wilsons War
+Julia Roberts,11482703,Joanne Herring,Charlie Wilsons War
+Philip Seymour Hoffman,20435126,Gust Avrakotos,Charlie Wilsons War
+Tom Hanks,2816393,Hero Boy,The Polar Express
+Tom Hanks,4401367,Jimmy Dugan,A League of Their Own
+Geena Davis,51249654,Dottie Hinson,A League of Their Own
+Lori Petty,20775251,Kit Keller,A League of Their Own
+Rosie ODonnell",137032,Doris Murphy,A League of Their Own
+Madonna,31271689,All the Way Mae Mordabito,A League of Their Own
+Bill Paxton,23756701,Bob Hinson,A League of Their Own
